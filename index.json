@@ -1,0 +1,30 @@
+[
+  {
+    "name": "testLib",
+    "version": "beta_1.0.0",
+    "availableVersions": [
+      "beta_1.0.0"
+    ],
+    "description": "Librer\u00eda de prueba para dependencias",
+    "author": "CeccPro",
+    "hash": "6a39acb9cd6844fd5acce9c354e5ca4b744729adfab69d0600b1cabc8401e440",
+    "id": "CeccPro.testLib@beta_1.0.0",
+    "downloadURL": "https://ceccpro.github.io/kdm-db/packages/testLib/beta_1.0.0/package.zip",
+    "dependencies": []
+  },
+  {
+    "name": "testApp",
+    "version": "1.0.0",
+    "availableVersions": [
+      "1.0.0"
+    ],
+    "description": "App de prueba que usa testLib",
+    "author": "CeccPro",
+    "hash": "115eb697f8ec6c0c86e58949632d408c85449c97a350df34802ca9e1d37e3911",
+    "id": "CeccPro.testApp@1.0.0",
+    "downloadURL": "https://ceccpro.github.io/kdm-db/packages/testApp/1.0.0/package.zip",
+    "dependencies": [
+      "CeccPro.testLib@beta_1.0.0"
+    ]
+  }
+]
