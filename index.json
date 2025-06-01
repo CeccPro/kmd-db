@@ -20,7 +20,7 @@
     ],
     "description": "App de prueba que usa testLib",
     "author": "CeccPro",
-    "hash": "115eb697f8ec6c0c86e58949632d408c85449c97a350df34802ca9e1d37e3911",
+    "hash": "2737e9cac8aea2e5cd06efc01e4a2aebeb9bc01d85534493288d776f6d667c35",
     "id": "CeccPro.testApp@1.0.0",
     "downloadURL": "https://ceccpro.github.io/kmd-db/packages/testApp/1.0.0/package.zip",
     "dependencies": [
