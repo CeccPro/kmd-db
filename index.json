@@ -7,7 +7,7 @@
     ],
     "description": "Librer\u00eda de prueba para dependencias",
     "author": "CeccPro",
-    "hash": "6a39acb9cd6844fd5acce9c354e5ca4b744729adfab69d0600b1cabc8401e440",
+    "hash": "8178a3bd3caf23de21d00372bfa28e666fabf97b3f07e9567f3c4487834a670d",
     "id": "CeccPro.testLib@beta_1.0.0",
     "downloadURL": "https://ceccpro.github.io/kmd-db/packages/testLib/beta_1.0.0/package.zip",
     "dependencies": []
