@@ -1,0 +1,10 @@
+{
+  "name": "testLib",
+  "version": "beta_1.0.0",
+  "description": "Librer\u00eda de prueba para dependencias",
+  "author": "CeccPro",
+  "postInstallScript": "",
+  "id": "CeccPro.testLib@beta_1.0.0",
+  "dependencies": [],
+  "license": "MIT"
+}
