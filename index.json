@@ -1,30 +1,38 @@
 [
   {
     "name": "testLib",
-    "version": "beta_1.0.0",
-    "availableVersions": [
-      "beta_1.0.0"
-    ],
     "description": "Librer\u00eda de prueba para dependencias",
     "author": "CeccPro",
-    "hash": "a2aeaeccd6b05f49b71d646f3c2f3662936265effef05e474e6d4b9c43226fd3",
-    "id": "CeccPro.testLib@beta_1.0.0",
-    "downloadURL": "https://ceccpro.github.io/kmd-db/packages/testLib/beta_1.0.0/package.zip",
+    "versions":[
+        {
+            "versionName":"beta_1.0.0",
+            "downloadURL":"https://ceccpro.github.io/kmd-db/packages/testLib/beta_1.0.0/package.zip",
+            "hash": "a2aeaeccd6b05f49b71d646f3c2f3662936265effef05e474e6d4b9c43226fd3",
+            "latest": false
+        },
+        {
+            "versionName":"1.0.0",
+            "downloadURL":"https://ceccpro.github.io/kmd-db/packages/testLib/beta_1.0.0/package.zip",
+            "hash": "a2aeaeccd6b05f49b71d646f3c2f3662936265effef05e474e6d4b9c43226fd3",
+            "latest": true
+        }
+    ],
     "dependencies": []
   },
   {
     "name": "testApp",
-    "version": "1.0.0",
-    "availableVersions": [
-      "1.0.0"
-    ],
     "description": "App de prueba que usa testLib",
     "author": "CeccPro",
-    "hash": "2737e9cac8aea2e5cd06efc01e4a2aebeb9bc01d85534493288d776f6d667c35",
-    "id": "CeccPro.testApp@1.0.0",
-    "downloadURL": "https://ceccpro.github.io/kmd-db/packages/testApp/1.0.0/package.zip",
+    "versions":[
+        {
+            "versionName":"1.0.0",
+            "downloadURL":"https://ceccpro.github.io/kmd-db/packages/testApp/1.0.0/package.zip",
+            "hash": "2737e9cac8aea2e5cd06efc01e4a2aebeb9bc01d85534493288d776f6d667c35",
+            "latest": true
+        }
+    ],
     "dependencies": [
-      "CeccPro.testLib@beta_1.0.0"
+      "CeccPro@testLib"
     ]
   }
 ]
