@@ -7,13 +7,13 @@
         {
             "versionName":"beta_1.0.0",
             "downloadURL":"https://ceccpro.github.io/kmd-db/packages/testLib/beta_1.0.0/package.zip",
-            "hash": "E1AF5DC89E16432DA09950973020A3E4CE8DF9E67C256530CFF9AC05DC35C056",
+            "hash": "e1af5dc89e16432da09950973020a3e4ce8df9e67c256530cff9ac05dc35c056",
             "latest": false
         },
         {
             "versionName":"1.0.0",
             "downloadURL":"https://ceccpro.github.io/kmd-db/packages/testLib/beta_1.0.0/package.zip",
-            "hash": "E1AF5DC89E16432DA09950973020A3E4CE8DF9E67C256530CFF9AC05DC35C056",
+            "hash": "e1af5dc89e16432da09950973020a3e4ce8df9e67c256530cff9ac05dc35c056",
             "latest": true
         }
     ],
