@@ -4,9 +4,8 @@
   "description": "App de prueba que usa testLib",
   "author": "CeccPro",
   "postInstallScript": "setup.bat",
-  "id": "CeccPro.testApp@1.0.0",
   "dependencies": [
-    "CeccPro.testLib@beta_1.0.0"
+    "CeccPro@testLib"
   ],
   "license": "MIT"
 }
