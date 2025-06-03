@@ -48,5 +48,19 @@
         }
     ],
     "dependencies": []
+  },
+  {
+    "name": "Notepad++_Win64",
+    "description": "Notepad++ para Windows x64",
+    "author": "CeccPro",
+    "versions":[
+        {
+            "versionName":"8.6.7",
+            "downloadURL":"https://ceccpro.github.io/KMD-pkgs/Notepad++_Win64/8.6.7/package.zip",
+            "hash": "acdd32419e527f3eff96d488b0c87bbf510340dc1aa3164d55ea19c00f8f9f22",
+            "latest": true
+        }
+    ],
+    "dependencies": []
   }
 ]
