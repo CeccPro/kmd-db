@@ -1,9 +1,0 @@
-{
-  "name": "testLib",
-  "version": "beta_1.0.0",
-  "description": "Librer\u00eda de prueba para dependencias",
-  "author": "CeccPro",
-  "postInstallScript": "setup.bat",
-  "dependencies": [],
-  "license": "MIT"
-}
