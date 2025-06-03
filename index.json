@@ -34,5 +34,21 @@
     "dependencies": [
       "CeccPro@testLib"
     ]
+  },
+  {
+    "name": "Python-Win64",
+    "description": "Python Embeddable para Windows x64",
+    "author": "CeccPro",
+    "versions":[
+        {
+            "versionName":"3.13.3",
+            "downloadURL":"https://ceccpro.github.io/kmd-pkgs/Python-Win64/3.13.3/package.zip",
+            "hash": "8eca1ece232d1d2d93e1a80b91bd43b0ba626028fa0f50339d7b28182a246310",
+            "latest": true
+        }
+    ],
+    "dependencies": [
+      "CeccPro@testLib"
+    ]
   }
 ]
