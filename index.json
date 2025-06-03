@@ -32,7 +32,10 @@
         }
     ],
     "dependencies": [
-      "CeccPro@testLib"
+      {
+        "id":"CeccPro@testLib",
+        "version":"1.0.0"
+      }
     ]
   },
   {
