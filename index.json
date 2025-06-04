@@ -72,7 +72,7 @@
     "author": "CeccPro",
     "versions":[
         {
-            "versionName":"8.6.7",
+            "versionName":"jre-1.8.0_451",
             "downloadURL":"https://github.com/CeccPro/KMD-pkgs/releases/download/Java-Win64_jre1.8.0_451/package.zip",
             "hash": "f92990284536ea08aabaf0bdef94b056bf2c4cb63e3bb0b33949052ccf573ada",
             "latest": true
