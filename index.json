@@ -65,7 +65,7 @@
         }
     ],
     "dependencies": []
-  }
+  },
   {
     "name": "Java_Win64",
     "description": "JDK para Windows x64",
