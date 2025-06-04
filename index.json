@@ -93,5 +93,19 @@
         }
     ],
     "dependencies": []
+  },
+  {
+    "name": "PSeInt_Win64",
+    "description": "PSeInt para Windows x64",
+    "author": "CeccPro",
+    "versions":[
+        {
+            "versionName": "2025.03.14",
+            "downloadURL":"https://github.com/CeccPro/KMD-pkgs/releases/download/PSeInt-Win64_2025.03.14/package.zip",
+            "hash": "b9349e03a4f10e97eaffed3652b2ea4180870f2c2e3fef6d781f50fde607c154",
+            "latest": true
+        }
+    ],
+    "dependencies": []
   }
 ]
