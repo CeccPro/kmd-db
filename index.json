@@ -79,5 +79,19 @@
         }
     ],
     "dependencies": []
+  },
+  {
+    "name": "XAMPP-Win64",
+    "description": "XAMPP para Windows x64",
+    "author": "CeccPro",
+    "versions":[
+        {
+            "versionName": "8.2.12",
+            "downloadURL":"https://github.com/CeccPro/KMD-pkgs/releases/download/XAMPP-Win64_8.2.12/package.zip",
+            "hash": "489c0c3a5664337f326b636c2e82aa7a726f9d18f8780999f94f73bc8fd96063",
+            "latest": true
+        }
+    ],
+    "dependencies": []
   }
 ]
