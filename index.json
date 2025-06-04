@@ -107,5 +107,19 @@
         }
     ],
     "dependencies": []
+  },
+  {
+    "name": "MPV_Win64",
+    "description": "MPV para Windows x64",
+    "author": "CeccPro",
+    "versions":[
+        {
+            "versionName": "2025.06.03",
+            "downloadURL":"https://github.com/CeccPro/KMD-pkgs/releases/download/MPV-Win64_2025.06.03/package.zip",
+            "hash": "babde03fc84c43f03fef5fb7c25022a0f441e8304c0e7848bd85d305adc424e5",
+            "latest": true
+        }
+    ],
+    "dependencies": []
   }
 ]
