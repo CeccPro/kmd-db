@@ -67,7 +67,7 @@
     "dependencies": []
   },
   {
-    "name": "Java_Win64",
+    "name": "Java-Win64",
     "description": "JDK para Windows x64",
     "author": "CeccPro",
     "versions":[
