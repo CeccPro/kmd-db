@@ -1,7 +1,7 @@
 [
   {
     "name": "KMD-Win64",
-    "description": "Gestor de paquetes para Windows 64 bits",
+    "description": "KMD Package Manager para Windows x64",
     "author": "CeccPro",
     "versions":[
         {
