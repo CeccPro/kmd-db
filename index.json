@@ -8,7 +8,7 @@
             "versionName":"1.1.5",
             "downloadURL":"https://github.com/CeccPro/kmd-update/releases/download/kmd_update/kmd.zip",
             "hash": "4d71ece18bc5b316e8dd1c923d63cb03cc3c74dc1321fe46fb8137284e0c7e75",
-            "latest": false
+            "latest": true
         }
     ],
     "dependencies": []
