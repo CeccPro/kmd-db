@@ -1,5 +1,19 @@
 [
   {
+    "name": "KMD-Win64",
+    "description": "Gestor de paquetes para Windows 64 bits",
+    "author": "CeccPro",
+    "versions":[
+        {
+            "versionName":"1.1.5",
+            "downloadURL":"https://github.com/CeccPro/kmd-update/releases/download/kmd_update/kmd.zip",
+            "hash": "4d71ece18bc5b316e8dd1c923d63cb03cc3c74dc1321fe46fb8137284e0c7e75",
+            "latest": false
+        }
+    ],
+    "dependencies": []
+  },
+  {
     "name": "testLib",
     "description": "Librer\u00eda de prueba para dependencias",
     "author": "CeccPro",
